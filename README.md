@@ -1,2 +1,2 @@
-# G-n-rateur-Histoire
+# Generateur-Histoire
 Reprend le générateur d'histoire du site MDN
