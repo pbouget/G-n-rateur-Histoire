@@ -1,2 +1,6 @@
 # Generateur-Histoire
-Reprend le générateur d'histoire du site MDN
+Il Reprend le générateur d'histoire du site MDN
+
+- index;html
+- histoire.css
+- histoire.js
