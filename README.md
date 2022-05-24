@@ -1,5 +1,5 @@
 # Generateur-Histoire
-Il Reprend le générateur d'histoire du site MDN
+Il Reprend le générateur d'histoire du site Mozilla
 
 - index.html
 - histoire.css
